@@ -1,1 +1,1 @@
-Hello, I'm just a programmer.
+Just a programmer.
